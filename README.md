@@ -2,7 +2,7 @@
 Truth_Table C++ program
 
 
-// Example of execution :
+### Example of execution :
 
 Truth Table
 ----------------------
